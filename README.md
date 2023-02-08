@@ -537,3 +537,85 @@ Faça esse curso de JavaScript e:
         TypeScript como inspiração e o pattern Decorator
         0 / 19
         47min
+
+##  TypeScript parte 1: evoluindo seu JavaScript
+
+Faça esse curso de JavaScript e:
+    Aprenda a configurar do zero seu ambiente
+    Conheça gradativamente os recursos do TypeScript compiler
+    Compreenda as vantagens da tipagem estática
+    Modele suas classes utilizando o que há de melhor na linguagem
+    Aprenda a utilizar tipos, modificadores, Generics entre outros
+
+    Aulas
+        Porque usar TypeScript? Ver primeiro vídeo
+        13 / 13
+        30min
+        Typescript e compilador
+        13 / 13
+        41min
+        Benefícios da tipagem estática
+        15 / 15
+        45min
+        Avançando na modelagem do domínio
+        12 / 12
+        31min
+        Simplificando nosso código
+        12 / 12
+        25min
+
+
+## TypeScript parte 2: avançando na linguagem
+
+Faça esse curso de JavaScript e:
+    Aprenda a utilizar modificadores de acesso, herança e tipos genéricos
+    Entenda o papel das Enumerations
+    Crie um mini framework de atualização de view inspirado no JSX
+    Configure ainda mais seu compilador TS e tire máximo proveito do seu código
+
+    Aulas
+
+        Elaborando uma solução de view Ver primeiro vídeo
+        12 / 12
+        38min
+        Herança e reaproveitamento de código
+        15 / 15
+        39min
+        Visibilidade de métodos e Enumeration
+        13 / 13
+        40min
+        Lapidando nosso código
+        10 / 10
+        28min
+        TSC e StrictNullChecks
+        13 / 13
+        31min
+
+## Typescript parte 3: mais técnicas e boas práticas
+
+Faça esse curso de JavaScript e:
+    Conheça as vantagens do uso de Decorators
+    Crie diferentes tipos de decorators e deixe seu código ainda mais elegante
+    Compreenda os benefícios do uso de interfaces
+    Aprenda a organizar e a adicionar tipo em seu código ao consumir uma API REST
+    Entenda o papel de sourceMaps e aprenda como debugar a sua aplicação no navegador
+    Crie soluções combinando tudo o que aprendeu nos módulos anteriores
+    Tire benefício do Polimorfismo garantindo um código protegido e dinâmico
+
+    Aulas
+
+        Entendendo Decorators Ver primeiro vídeo
+        12 / 12
+        38min
+        Decorators de métodos
+        10 / 10
+        32min
+        Decorator de propriedade
+        10 / 10
+        36min
+        API externa e interface
+        9 / 9
+        35min
+        Mais sobre interfaces
+        16 / 16
+        60min
