@@ -619,3 +619,29 @@ Faça esse curso de JavaScript e:
         Mais sobre interfaces
         16 / 16
         60min
+
+## React: entendendo como a biblioteca funciona
+Faça esse curso de React e:
+    Aprenda a criar class components dentro do React
+    Saiba como passar informações entre os componentes
+    Entenda como o "this" funciona dentro do Javascript
+    Crie Sites com mais facilidade
+    Conheça como o React funciona para otimizar seus sites
+
+    Aulas
+
+        Criando o projeto Ver primeiro vídeo
+        6 / 6
+        21min
+        Componentizando o sistema
+        7 / 7
+        33min
+        Estilizando componentes
+        7 / 7
+        25min
+        Lidando com eventos e propriedades
+        6 / 6
+        18min
+        Controlando o estado e a renderização
+        8 / 9
+        39min
