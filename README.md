@@ -633,15 +633,132 @@ Faça esse curso de React e:
         Criando o projeto Ver primeiro vídeo
         6 / 6
         21min
+
+            Introdução
+            Criando o projeto
+            Limpando o projeto
+            React por debaixo dos panos
+            Faça como eu fiz na aula
+            O que aprendemos?
+
         Componentizando o sistema
         7 / 7
         33min
+
+            Projeto da aula Anterior
+            Criando componentes
+            Pensando de forma diferente
+            Praticando e utilizando plugins
+            Integrando o JS
+            Faça como eu fiz na aula
+            O que aprendemos?
+
         Estilizando componentes
         7 / 7
         25min
+
+            Projeto da aula anterior
+            Estilizando componentes
+            Conflito de nomes
+            Palavras Reservadas
+            Organizando o projeto
+            Faça como eu fiz na aula
+            O que aprendemos?
+
         Lidando com eventos e propriedades
         6 / 6
         18min
+
+            Projeto da aula anterior
+            Lidando com eventos
+            Binds
+            Referências para funções
+            Faça como eu fiz na aula
+            O que aprendemos?
+
         Controlando o estado e a renderização
-        8 / 9
+        9 / 9
         39min
+
+            Projeto da aula anterior
+            Passando Propriedades
+            Mais Propriedades
+            O State
+            State e Props
+            Faça como eu fiz na aula
+            O que aprendemos?
+            Projeto final do curso
+            Conclusão
+
+## React: ciclo de vida dos componentes
+Faça esse curso de React e:
+    Aprenda sobre o ciclo de vida dos componentes React
+    Entenda os possíveis problemas de performance da aplicação
+    Saiba adicionar o padrão de projetos Observable em seus sites
+    Conheça diferentes forma de carregar um SVG dentro do site
+    Compreenda a diferença entre Statefull e Stateless components
+
+        Aulas
+
+        Deletando um card Ver primeiro vídeo
+        0 / 7
+        28min
+
+            Introdução
+            Projeto inicial do curso
+            Importando SVGs
+            Deletando cards
+            Proriedades dos componentes
+            Faça como eu fiz na aula
+            O que aprendemos?
+
+        Criando lista de categorias
+        0 / 8
+        31min
+
+            Projeto da aula anterior
+            Criando lista de categorias
+            Stateful e Stateless Components
+            Função dos componentes
+            Adicionando categorias dinamicamente
+            Quando usar state?
+            Faça como eu fiz na aula
+            O que aprendemos?
+
+        Seguindo padrões
+        0 / 7
+        21min
+
+            Projeto da aula anterior
+            Seguindo padrões
+            Adicionando categorias aos cards
+            O estado da aplicação
+            Problemas da estrutura atual
+            Faça como eu fiz na aula
+            O que aprendemos?
+
+        Observable
+        0 / 7
+        28min
+
+            Projeto da aula anterior
+            Criando fonte de dados
+            Elevando o State
+            O padrão Observable
+            Criando lista de inscritos
+            Faça como eu fiz na aula
+            O que aprendemos?
+
+        Ciclo de vida dos objetos
+        0 / 9
+        38min
+
+            Projeto da aula anterior
+            Ciclo de vida dos objetos
+            Adicionando estado local
+            Montando um componente
+            Referências pra funções e bind
+            Faça como eu fiz na aula
+            O que aprendemos?
+            Projeto final do curso
+            Conclusão
